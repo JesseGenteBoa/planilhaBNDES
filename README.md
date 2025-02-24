@@ -5,7 +5,7 @@ Este é um script simples em Python que processa um arquivo SPED Fiscal, extraí
 <br/>
 
 ### Funcionalidades
-<br/>
+
 Lê o arquivo SPED Fiscal no formato .txt (delimitado por |).
 Extrai informações das notas fiscais, como:
 Chave de Acesso
@@ -17,7 +17,6 @@ Gera um arquivo Excel (.xlsx) com as informações processadas, pronto para ser 
 <br/>
 
 ### Pré-requisitos:
-<br/>
 Python 3.x
 Bibliotecas: pandas, locale e tkinter.
 O arquivo SPED Fiscal deve ser no formato .txt e estar codificado em ISO-8859-1.
@@ -25,7 +24,6 @@ O arquivo SPED Fiscal deve ser no formato .txt e estar codificado em ISO-8859-1.
 <br/>
 
 ### Execução:
-<br/>
 Execute o script Python no seu terminal ou ambiente de desenvolvimento.
 O script irá pedir para selecionar o arquivo SPED Fiscal e processará os dados automaticamente.
 O script irá gerar um arquivo Excel (.xlsx) com os resultados na mesma pasta onde o script foi executado.
