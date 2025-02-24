@@ -17,9 +17,9 @@ Gera um arquivo Excel (.xlsx) com as informações processadas, pronto para ser 
 <br/>
 
 ### Pré-requisitos:
-Python 3.x
-Bibliotecas: pandas, locale e tkinter.
-O arquivo SPED Fiscal deve ser no formato .txt e estar codificado em ISO-8859-1.
+Python 3.x;  
+Bibliotecas: pandas, locale e tkinter;  
+O arquivo SPED Fiscal deve ser no formato .txt e estar codificado em ISO-8859-1;
 <br/>
 <br/>
 
