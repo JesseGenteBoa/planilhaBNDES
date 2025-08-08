@@ -36,6 +36,7 @@ Um arquivo BNDES 23-02-2025.xlsx será gerado com as informações das notas fis
 ### Dependências
 Este projeto depende de algumas bibliotecas Python. Você pode instalá-las usando pip:
 ```bash
-pip install pandas
+pip install pandas  
+pip install openpyxl
 ```
 As bibliotecas locale e tkinter já fazem parte da instalação padrão do Python.
